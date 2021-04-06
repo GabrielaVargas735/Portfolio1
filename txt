@@ -1,0 +1,7 @@
+Comentarios de los Profesores/Compañeros.
+
+- Cambiar la forma en que llama los elementos en el fetch. Aunque funcione, no deberia llamarlo de esa forma.
+- Ajustar todo de forma correcta. Que todos los elementos tengan las mismas medidas de todo lado.
+- Cuestionar de forma diferente el formulario.
+- Que el fondo y las letras no hagan un "choque" visual.
+- Sea más sencillo al momento de buscar las cosas en la página.
