@@ -1,0 +1,66 @@
+p{
+    list-style: none;
+}
+#repos li{
+    list-style: none;
+}
+#repos li a{
+    text-decoration: underline;
+    color: white;
+}
+.repos_list{
+    background-color: rgba(0, 0, 0, .5);
+    height: 35px;
+    width: 600px;
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    padding-left: 10px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.title{
+    padding-top: 20px;
+    margin-left: 40px;
+    text-transform: uppercase;
+    color: #FF8000;
+}
+#img_1{
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -3490px;
+    position: relative;
+    border-radius: 10px;
+}
+#img_2{
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -2800px;
+    position: relative;
+    border-radius: 10px;
+}
+#img_3{
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -2110px;
+    position: relative;
+    border-radius: 10px;
+}
+#img_4{
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -1411px;
+    position: relative;
+    border-radius: 10px;
+}
+#img_5{
+    float: right;
+    height: 400px;
+    margin-right: 190px;
+    margin-top: -721px;
+    position: relative;
+    border-radius: 10px;
+}
