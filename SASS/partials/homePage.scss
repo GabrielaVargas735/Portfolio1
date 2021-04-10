@@ -35,28 +35,33 @@
 .content_option{
     height: 450px;
     left: 21%;
-	position:absolute;
+	position: absolute;
 	top: 73%;
 	transform: translateX(-50%) translateY(-50%);
 }
 .points{
-	position: absolute;
-	list-style: none;
 	display: flex;
+	list-style: none;
+	margin-left: -90px;
+	position: absolute;
 	transform: translateX(-50%);
-    margin-left: -90px;
 }
 .points li{
-	margin: .3rem;
-	width: 16px;
-	height: 16px;
 	border-radius: 50%;
 	border: 2px solid black;
 	background-color: black;
 	cursor: pointer;
+	height: 16px;
+	margin: .3rem;
+	width: 16px;
 }
 .points li.colored{
 	background-color: white;
 	border: none;
 }
-
+#sidebar{
+	visibility: hidden;
+}
+.mainbox{
+	color: white;
+}

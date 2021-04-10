@@ -1,5 +1,12 @@
+// Config
+@import "config/mixin";
+@import "config/settings";
+
+//Normalize
+@import "library/normalize";
+
+// Partials
 @import "partials/globals";
-@import "partials/variables";
 @import "partials/homePage";
 @import "partials/portfolio";
 @import "partials/gitHub";
@@ -7,3 +14,6 @@
 @import "partials/contactMe";
 @import "partials/header.scss";
 @import "partials/footer";
+
+//Mobile
+@import "breakpoint/mobile";

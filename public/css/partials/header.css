@@ -1,1 +1,27 @@
-.header{background-color:black;height:120px}.logo_header{height:80px;margin-left:20px;margin-top:18px;width:80px}.list_header{position:relative}.header_list{color:white;cursor:pointer;float:right;font-weight:500;font-size:large;list-style:none;padding-left:50px;position:relative;text-transform:uppercase;top:-50px}.header_list:hover{color:#FF8000}
+.header {
+  background-color: black;
+  height: 120px; }
+
+.logo_header {
+  height: 80px;
+  margin-left: 20px;
+  margin-top: 18px;
+  width: 80px; }
+
+.list_header {
+  position: relative; }
+
+.header_list {
+  color: white;
+  cursor: pointer;
+  float: right;
+  font-weight: 500;
+  font-size: large;
+  list-style: none;
+  padding-left: 50px;
+  position: relative;
+  text-transform: uppercase;
+  top: -50px; }
+
+.header_list:hover {
+  color: #FF8000; }
