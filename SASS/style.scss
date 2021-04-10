@@ -1,6 +1,5 @@
 // Config
 @import "config/mixin";
-@import "config/settings";
 
 //Normalize
 @import "library/normalize";
@@ -14,6 +13,3 @@
 @import "partials/contactMe";
 @import "partials/header.scss";
 @import "partials/footer";
-
-//Mobile
-@import "breakpoint/mobile";

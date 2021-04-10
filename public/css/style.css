@@ -414,7 +414,7 @@ p {
   float: right;
   height: 400px;
   margin-right: 190px;
-  margin-top: -3490px;
+  margin-top: -2900px;
   position: relative; }
 
 #img_2 {
@@ -422,7 +422,7 @@ p {
   float: right;
   height: 400px;
   margin-right: 190px;
-  margin-top: -2800px;
+  margin-top: -2300px;
   position: relative; }
 
 #img_3 {
@@ -430,7 +430,7 @@ p {
   float: right;
   height: 400px;
   margin-right: 190px;
-  margin-top: -2110px;
+  margin-top: -1700px;
   position: relative; }
 
 #img_4 {
@@ -438,7 +438,7 @@ p {
   float: right;
   height: 400px;
   margin-right: 190px;
-  margin-top: -1411px;
+  margin-top: -1100px;
   position: relative; }
 
 #img_5 {
@@ -446,7 +446,7 @@ p {
   float: right;
   height: 400px;
   margin-right: 190px;
-  margin-top: -721px;
+  margin-top: -500px;
   position: relative; }
 
 .update {
@@ -463,21 +463,14 @@ p {
   float: right;
   height: 500px;
   margin-right: 190px;
-  margin-top: -3490px;
-  position: relative; }
-
-#alien {
-  float: right;
-  height: 500px;
-  margin-right: 240px;
-  margin-top: -3000px;
+  margin-top: -2900px;
   position: relative; }
 
 #alien2 {
   float: right;
   height: 500px;
   margin-right: 240px;
-  margin-top: -2500px;
+  margin-top: -2450px;
   position: relative; }
 
 #alien3 {
@@ -569,8 +562,7 @@ input {
   background-color: white;
   border-radius: 5px;
   border: none;
-  color: black;
-  padding: 10px; }
+  color: black; }
 
 .form {
   margin-left: 100px;
@@ -584,7 +576,7 @@ input {
 #war {
   float: right;
   margin-right: 350px;
-  margin-top: -550px; }
+  margin-top: -500px; }
 
 .header {
   background-color: black;
@@ -638,37 +630,3 @@ input {
   color: white;
   float: right;
   margin-top: -35px; }
-
-@media (max-width: 736px) {
-  .header {
-    height: 90px; }
-  .list_header {
-    visibility: hidden; }
-  .logo_header {
-    height: 50px;
-    width: 50px;
-    visibility: hidden; }
-  #mainbox {
-    font-size: 24px;
-    cursor: pointer;
-    transition: all .6s;
-    padding-left: 10px; }
-  .sidemenu {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    height: 100%;
-    width: 0px;
-    background-color: rgba(0, 0, 0, 0.6);
-    z-index: 1;
-    padding-top: 100px;
-    overflow-x: hidden;
-    transition: all .5s; }
-  .sidemenu a {
-    padding: 8px 8px 8px 64px;
-    text-decoration: none;
-    font-size: 20px;
-    color: white;
-    display: block; }
-    .sidemenu a a:hover {
-      color: white; } }

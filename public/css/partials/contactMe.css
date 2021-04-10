@@ -28,8 +28,7 @@ input {
   background-color: white;
   border-radius: 5px;
   border: none;
-  color: black;
-  padding: 10px; }
+  color: black; }
 
 .form {
   margin-left: 100px;
@@ -43,4 +42,4 @@ input {
 #war {
   float: right;
   margin-right: 350px;
-  margin-top: -550px; }
+  margin-top: -500px; }
